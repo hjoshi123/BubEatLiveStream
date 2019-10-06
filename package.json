@@ -1,0 +1,32 @@
+{
+  "name": "runandeat",
+  "version": "1.0.0",
+  "description": "Socket.io and p5.js game",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florinpop17/RunAndEat.git"
+  },
+  "keywords": [
+    "socket.io",
+    "express",
+    "nodejs",
+    "p5.js"
+  ],
+  "author": "Florin Pop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florinpop17/RunAndEat/issues"
+  },
+  "homepage": "https://github.com/florinpop17/RunAndEat#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "hammerjs": "^2.0.8",
+    "socket.io": "^1.7.2"
+  }
+}
